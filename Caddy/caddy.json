@@ -1,0 +1,197 @@
+{
+    "apps": {
+        "tls": {
+            "automation": {},
+            "certificates": {
+                "load_pem": [
+                    {
+                        "certificate": "\n-----BEGIN CERTIFICATE-----\nMIIG+TCCBOGgAwIBAgIRAKS6tyhKxB/GiuzROMOFpk4wDQYJKoZIhvcNAQEMBQAw\nSzELMAkGA1UEBhMCQVQxEDAOBgNVBAoTB1plcm9TU0wxKjAoBgNVBAMTIVplcm9T\nU0wgUlNBIERvbWFpbiBTZWN1cmUgU2l0ZSBDQTAeFw0yMjEwMjUwMDAwMDBaFw0y\nMzEwMjUyMzU5NTlaMBsxGTAXBgNVBAMMECoubG9jYWwuZWh3Mi5uZXQwggEiMA0G\nCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCOiiOCoLyWw3qY45hmgzr7xNGPaSwJ\nl4QCDZxWR66hrapku7utgGBRQfW/cXj81ObmZC8mz2/wUq8L00Cp1jEa09ZnQr8+\nlE+NdEMOAkLGZ2KpcG8CDsWZXxCoReEUMiKMC8qatA5opgpcPhnwTIEs1KTyCOZi\nmemF6m7JSw5Nj2ev6e2hArY6/vNilS6OWppz8NNZBuvbkOiqS0UhUzaca2/KZ/WO\nP4Rp2PPE8kqSaAAfygcFqlG7mrKupcm5FjyTpQOogvtBC9g4s8d8Q6rjNmwVDyvz\ntmJELC6ikONazewGi0DKlrNYErf83kW7rgO5yl/RtFO91YK+im4EF57ZAgMBAAGj\nggMGMIIDAjAfBgNVHSMEGDAWgBTI2XhootkZaNU9ct5fCj7ctYaGpjAdBgNVHQ4E\nFgQUo3zJ3RH6nTSA3TWIkaUoSKK3/18wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB\n/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAw\nNAYLKwYBBAGyMQECAk4wJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNv\nbS9DUFMwCAYGZ4EMAQIBMIGIBggrBgEFBQcBAQR8MHowSwYIKwYBBQUHMAKGP2h0\ndHA6Ly96ZXJvc3NsLmNydC5zZWN0aWdvLmNvbS9aZXJvU1NMUlNBRG9tYWluU2Vj\ndXJlU2l0ZUNBLmNydDArBggrBgEFBQcwAYYfaHR0cDovL3plcm9zc2wub2NzcC5z\nZWN0aWdvLmNvbTArBgNVHREEJDAighAqLmxvY2FsLmVodzIubmV0gg5sb2NhbC5l\naHcyLm5ldDCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHUArfe++nz/EMiLnT2c\nHj4YarRnKV3PsQwkyoWGNOvcgooAAAGEEOtLBAAABAMARjBEAiBuInjPhuVT2KnC\nXvATj+PACnOh3X8nkvoq6MOQmFwJswIgU3Rinykm7WeCpIdtKcWK/E73V4qxJv20\n99OILSuQAScAdwB6MoxU2LcttiDqOOBSHumEFnAyE4VNO9IrwTpXo1LrUgAAAYQQ\n60sVAAAEAwBIMEYCIQDLCs/6BK6/LK7e65cEi/LH6pCWWicT1fygtlJVKPzTnAIh\nAO3rKU143Qk2xV9sOqjCMUR7/9lAGRgaJeTpjWaQ6NqzAHYA6D7Q2j71BjUy51co\nvIlryQPTy9ERa+zraeF3fW0GvW4AAAGEEOtK5wAABAMARzBFAiEA3nbYuu77/0ph\nmqmjCIdCdXUwOP8YYRDyropQL9JAEK0CIE1u64m1X/FHl+0byOLg8a3qIOvwPv+w\npnZO9OBFsa6dMA0GCSqGSIb3DQEBDAUAA4ICAQAFy6nqR/76BKJp3qpRB43I3ep0\nkU72Y0RiSDtfwErJyNHg6LcbBSlIEUyy9vmSIBwed7RhwpomCkBM7N+rSr2ZOxna\nRepj2CNkwQppkjT6ZGmdRp83tD9RA0S6Zf192p3ugjeLxS/w7bfuMgiLGeY8AeCK\nu1mLfH+oVkL21Dk30ao1KYpcqpkcnxeb9GaZ6ep1HcJrD7Uv+08nSO+gReSYrJ1k\ncYcP/7DqYjoo0nFt/HPPy06XZAXKr1GpO1ok/Vy77SMBL93TBJq5v7zkUEQ5H85k\nxfGrY0424jvDG8/UB0+Vx02OBXT9MZKMflr3fwz1n3xREOYYViXx7oOndqRPTKWe\nUqg39BcEDTSXwXLl0qeAKoO9vf63pzVVyBbbzGRXvxp4pwStHH3S3JMixCUdmRZT\nH9iJ8yBCUeFg4fE7yIB5fzF54DzKJd1MU0i9mnfj83s3r8WrPaGr2aRAvLrwMSex\nLQz2NBE11+CnyseTG8DAcktrbeJGXnd8sNPAKq8V2mXq19VttcfsaLO7aUW9UnoY\ngfb+kJaJNiL6QKmZveaKBV0e3TPPRYKrlfwELE2WYx+jAeM202u3SUmBkAVIF+cg\nxwVmpUl702iRHxMYeyexM19vilx+GlGTXTcwC+bc/iTHTjUZvXO2/VG5LFSlgSTX\n7iTpej4FppqomKfDAQ==\n-----END CERTIFICATE-----\n-----BEGIN CERTIFICATE-----\nMIIG1TCCBL2gAwIBAgIQbFWr29AHksedBwzYEZ7WvzANBgkqhkiG9w0BAQwFADCB\niDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCk5ldyBKZXJzZXkxFDASBgNVBAcTC0pl\ncnNleSBDaXR5MR4wHAYDVQQKExVUaGUgVVNFUlRSVVNUIE5ldHdvcmsxLjAsBgNV\nBAMTJVVTRVJUcnVzdCBSU0EgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkwHhcNMjAw\nMTMwMDAwMDAwWhcNMzAwMTI5MjM1OTU5WjBLMQswCQYDVQQGEwJBVDEQMA4GA1UE\nChMHWmVyb1NTTDEqMCgGA1UEAxMhWmVyb1NTTCBSU0EgRG9tYWluIFNlY3VyZSBT\naXRlIENBMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAhmlzfqO1Mdgj\n4W3dpBPTVBX1AuvcAyG1fl0dUnw/MeueCWzRWTheZ35LVo91kLI3DDVaZKW+TBAs\nJBjEbYmMwcWSTWYCg5334SF0+ctDAsFxsX+rTDh9kSrG/4mp6OShubLaEIUJiZo4\nt873TuSd0Wj5DWt3DtpAG8T35l/v+xrN8ub8PSSoX5Vkgw+jWf4KQtNvUFLDq8mF\nWhUnPL6jHAADXpvs4lTNYwOtx9yQtbpxwSt7QJY1+ICrmRJB6BuKRt/jfDJF9Jsc\nRQVlHIxQdKAJl7oaVnXgDkqtk2qddd3kCDXd74gv813G91z7CjsGyJ93oJIlNS3U\ngFbD6V54JMgZ3rSmotYbz98oZxX7MKbtCm1aJ/q+hTv2YK1yMxrnfcieKmOYBbFD\nhnW5O6RMA703dBK92j6XRN2EttLkQuujZgy+jXRKtaWMIlkNkWJmOiHmErQngHvt\niNkIcjJumq1ddFX4iaTI40a6zgvIBtxFeDs2RfcaH73er7ctNUUqgQT5rFgJhMmF\nx76rQgB5OZUkodb5k2ex7P+Gu4J86bS15094UuYcV09hVeknmTh5Ex9CBKipLS2W\n2wKBakf+aVYnNCU6S0nASqt2xrZpGC1v7v6DhuepyyJtn3qSV2PoBiU5Sql+aARp\nwUibQMGm44gjyNDqDlVp+ShLQlUH9x8CAwEAAaOCAXUwggFxMB8GA1UdIwQYMBaA\nFFN5v1qqK0rPVIDh2JvAnfKyA2bLMB0GA1UdDgQWBBTI2XhootkZaNU9ct5fCj7c\ntYaGpjAOBgNVHQ8BAf8EBAMCAYYwEgYDVR0TAQH/BAgwBgEB/wIBADAdBgNVHSUE\nFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwIgYDVR0gBBswGTANBgsrBgEEAbIxAQIC\nTjAIBgZngQwBAgEwUAYDVR0fBEkwRzBFoEOgQYY/aHR0cDovL2NybC51c2VydHJ1\nc3QuY29tL1VTRVJUcnVzdFJTQUNlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMHYG\nCCsGAQUFBwEBBGowaDA/BggrBgEFBQcwAoYzaHR0cDovL2NydC51c2VydHJ1c3Qu\nY29tL1VTRVJUcnVzdFJTQUFkZFRydXN0Q0EuY3J0MCUGCCsGAQUFBzABhhlodHRw\nOi8vb2NzcC51c2VydHJ1c3QuY29tMA0GCSqGSIb3DQEBDAUAA4ICAQAVDwoIzQDV\nercT0eYqZjBNJ8VNWwVFlQOtZERqn5iWnEVaLZZdzxlbvz2Fx0ExUNuUEgYkIVM4\nYocKkCQ7hO5noicoq/DrEYH5IuNcuW1I8JJZ9DLuB1fYvIHlZ2JG46iNbVKA3ygA\nEz86RvDQlt2C494qqPVItRjrz9YlJEGT0DrttyApq0YLFDzf+Z1pkMhh7c+7fXeJ\nqmIhfJpduKc8HEQkYQQShen426S3H0JrIAbKcBCiyYFuOhfyvuwVCFDfFvrjADjd\n4jX1uQXd161IyFRbm89s2Oj5oU1wDYz5sx+hoCuh6lSs+/uPuWomIq3y1GDFNafW\n+LsHBU16lQo5Q2yh25laQsKRgyPmMpHJ98edm6y2sHUabASmRHxvGiuwwE25aDU0\n2SAeepyImJ2CzB80YG7WxlynHqNhpE7xfC7PzQlLgmfEHdU+tHFeQazRQnrFkW2W\nkqRGIq7cKRnyypvjPMkjeiV9lRdAM9fSJvsB3svUuu1coIG1xxI1yegoGM4r5QP4\nRGIVvYaiI76C0djoSbQ/dkIUUXQuB8AL5jyH34g3BZaaXyvpmnV4ilppMXVAnAYG\nON51WhJ6W0xNdNJwzYASZYH+tmCWI+N60Gv2NNMGHwMZ7e9bXgzUCZH5FaBFDGR5\nS9VWqHB73Q+OyIVvIbKYcSc2w/aSuFKGSA==\n-----END CERTIFICATE-----\n",
+                        "key": "\n-----BEGIN RSA PRIVATE KEY-----\nMIIEpQIBAAKCAQEAjoojgqC8lsN6mOOYZoM6+8TRj2ksCZeEAg2cVkeuoa2qZLu7\nrYBgUUH1v3F4/NTm5mQvJs9v8FKvC9NAqdYxGtPWZ0K/PpRPjXRDDgJCxmdiqXBv\nAg7FmV8QqEXhFDIijAvKmrQOaKYKXD4Z8EyBLNSk8gjmYpnphepuyUsOTY9nr+nt\noQK2Ov7zYpUujlqac/DTWQbr25DoqktFIVM2nGtvymf1jj+EadjzxPJKkmgAH8oH\nBapRu5qyrqXJuRY8k6UDqIL7QQvYOLPHfEOq4zZsFQ8r87ZiRCwuopDjWs3sBotA\nypazWBK3/N5Fu64Ducpf0bRTvdWCvopuBBee2QIDAQABAoIBAEdlpDHbR3uRAMiy\nP/UhSJsx0/IssRVA4quQm72P/EYZ0h7Q9koK4rPxASJauUqTbfD7P68F+sD6+ZlH\nwL0Rf9k7QMrKYTb8XPiywp+yvDXbNU0/9yqlsY6IUrSnA/30ut9BTMO+6vS6LrhT\nlvSJra6B+PkPQi8jfxhH/CQxx0FLkslSWBfL2FxgQteJUt6WuQezP5NkY9MMK5dP\nWaZ8js0BWbRADOEp/9ch8UKdqwJo7WDNZa4GjTAn5aQ61OQvXTxO8A01hZ6drfqj\nSKX4fMhe/sJ+Q5tm9X8y+p6JvslovTMS4LVqWkEubqb1ufE3wzvK6x2jdXUDHTlT\nIb6tus0CgYEAzH6YVJqkcTRc7VIR4ts9TVI0eMipekJ1fU9pR49hGXj51hhSGfJw\n/1oJLSdwPt3mA3IOh6+wtMg74VYKpzJr0RMetwspFljSEVCobIBCylQcr51c7XkL\nh9y04yV8FNUqlHJKjuIf+S1KaPQ3v3ESN90XflpYGejcwNRLQl5Tg+sCgYEAsnDQ\nEeZfJE9FTF6DAwTKeBMYi4SE+PHYhuk4f8ZBle6jozZ/UL1jSHt4lgTKlQUO/ByI\n37S1e+0tgHugDAUBrHE+/sLxa2f0Tb1CjPh0PeBeuGiXKMNYOLGwIadUmndS43Io\nQZukA/O0UpQ7bdn8THpN7i5itqZ/CYxZvUMGq0sCgYEAr49fqAK7epTB0tzKjkA6\neM9CTQ+4sEWuKE6sy8rESeIaWzu2AKCrcg4SIrnhG5fViM+6ubKTuiDNh78eljwr\nY+tOS0dBlvXaIxNkBQJ4VMuxdPNcfGOXCqTohrn/tMLtM1SLve9UE9BWOZSw56Jj\nSaJ+MPPO/y9zlfisQ+ZHPNECgYEAskve28PglRtQFvro1X9X/5q1D9MeOtEMleE7\nPxEOP43vnAm8NSTHq4kT+HJZKYWgb3DjowOhw2495P+h7+Cgx3lwhIatS7DXf0X4\n1Xr8S0eB3alEQMrPv/ZsE3RrKNzJydIrP0MRI5HDQDA1IZKKcrBSZgebQv4iOZwv\nntj2NPkCgYEAiVuzXjoYeawT7QP0AksWDJ1tMyxZd3lBDdoULz2susikrWgF37Dz\nzCeFtfbP02/QYG8HVOsixq5uMSOXMOuPR1Ht0d1moHou19UM80B6wAYGqQ45DfY+\ngAHyou11x3wFrlWBHSvUSNF8qwlAsFT2WasQNzFM0GeUe8/qh7jAqbo=\n-----END RSA PRIVATE KEY-----\n"
+                    }
+                ]
+            }
+        },
+        "http": {
+            "servers": {
+                "CaterZen": {
+                    "listen": [
+                        ":443"
+                    ],
+                    "routes": [
+                        {
+                            "match": [
+                                {
+                                    "host": [
+                                        "local.ehw2.net"
+                                    ]
+                                }
+                            ],
+                            "handle": [
+                                {
+                                    "handler": "static_response",
+                                    "status_code": "200",
+                                    "headers": {
+                                        "Content-type": [
+                                            "text/html"
+                                        ]
+                                    },
+                                    "body": "\n                        <!doctype html>\n                        <html lang=\"en\">\n                            <head>\n                                <meta charset=\"utf-8\">\n                                <title>Directory for .local.ehw2.net</title>\n                                <style>\n                                    ul {margin: 0;}\n                                    li {margin-top: 5pt;}\n                                </style>\n                            </head>\n                            <body style=\"padding: 10%; font-family: monospace; text-align: center;\">\n                                <h1>Env Directory</h1>\n                                <hr>\n                                <h3>\n                                    Primary Domain:\n                                    <a href=\"https://example-com.local.ehw2.net/\">example-com.local.ehw2.net</a>\n                                </h3>\n                            </body>\n                        </html>\n                    "
+                                }
+                            ],
+                            "terminal": true
+                        },
+                        {
+                            "handle": [
+                                {
+                                    "handler": "headers",
+                                    "response": {
+                                        "set": {
+                                            "Strict-Transport-Security": [
+                                                "max-age=31536000; includeSubDomains; preload"
+                                            ],
+                                            "Content-Security-Policy": [
+                                                "default-src 'self' https: blob: 'unsafe-eval' 'unsafe-inline'; connect-src 'self' https: wss:; object-src 'none'; font-src 'self' https: data:; img-src 'self' https: blob: data:"
+                                            ],
+                                            "Permissions-Policy": [
+                                                "accelerometer=(), autoplay=(), document-domain=(), encrypted-media=(), magnetometer=(), midi=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(self), usb=(), xr-spatial-tracking=()"
+                                            ],
+                                            "Referrer-Policy": [
+                                                "no-referrer"
+                                            ],
+                                            "X-Frame-Options": [
+                                                "SAMEORIGIN"
+                                            ],
+                                            "X-Content-Type-Options": [
+                                                "nosniff"
+                                            ]
+                                        }
+                                    }
+                                }
+                            ],
+                            "terminal": false
+                        },
+                        {
+                            "match": [
+                                {
+                                    "path": [
+                                        "/web/*"
+                                    ]
+                                }
+                            ],
+                            "handle": [
+                                {
+                                    "handler": "headers",
+                                    "response": {
+                                        "set": {
+                                            "Cache-Control": [
+                                                "no-cache",
+                                                "max-age=0"
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "handler": "file_server",
+                                    "root": "/CaterZen/Web"
+                                }
+                            ],
+                            "terminal": true
+                        },
+                        {
+                            "match": [
+                                {
+                                    "path": [
+                                        "/min/*"
+                                    ]
+                                }
+                            ],
+                            "handle": [
+                                {
+                                    "handler": "headers"
+                                },
+                                {
+                                    "handler": "reverse_proxy",
+                                    "transport": {
+                                        "protocol": "fastcgi",
+                                        "split_path": [
+                                            ".php"
+                                        ]
+                                    },
+                                    "upstreams": [
+                                        {
+                                            "dial": "php:9000"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "terminal": true
+                        },
+                        {
+                            "match": [],
+                            "handle": [
+                                {
+                                    "handler": "headers",
+                                    "response": {
+                                        "set": {
+                                            "Cache-Control": [
+                                                "no-cache",
+                                                "max-age=0"
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "handler": "reverse_proxy",
+                                    "transport": {
+                                        "protocol": "fastcgi",
+                                        "split_path": [
+                                            ".php"
+                                        ]
+                                    },
+                                    "upstreams": [
+                                        {
+                                            "dial": "php:9000"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "terminal": true
+                        }
+                    ],
+                    "logs": {
+                        "default_logger_name": "caddy-access"
+                    }
+                }
+            }
+        }
+    },
+    "admin": {
+        "disabled": true
+    },
+    "logging": {
+        "logs": {
+            "caddy-access": {
+                "writer": {
+                    "output": "file",
+                    "filename": "/dev/stdout",
+                    "roll": false
+                },
+                "encoder": {
+                    "format": "json",
+                    "message_key": "message",
+                    "level_key": "level"
+                },
+                "level": "INFO",
+                "include": [
+                    "http.log.access"
+                ],
+                "exclude": []
+            }
+        }
+    },
+    "storage": {
+        "module": "redis",
+        "host": "redis",
+        "db": 0
+    }
+}

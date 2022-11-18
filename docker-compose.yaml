@@ -1,0 +1,15 @@
+name: cz-example
+services:
+  caddy:
+    image: cz-caddy
+    ports:
+    - 80:80
+    - 443:443
+    build: Caddy/
+  php:
+    image: cz-php
+    build: PHP/
+networks:
+  default:
+    name: cz-meta
+    external: true
